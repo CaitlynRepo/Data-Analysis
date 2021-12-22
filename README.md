@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Hello there, I'm Caitlyn! I have a technical background of Economics and Finance while currently studying for a degree of Master of IT in Business (Singapore Management University), majoring in Fintech and Analytics. I have worked and obtained experiences in FMCG, Finance and Consulting industries.   
+Hello there, I'm Caitlyn! I have a background of Economics and Finance, and I'm currently studying for a degree of Master of IT in Business (Singapore Management University), majoring in Fintech and Analytics. I have worked and obtained experiences in FMCG, Finance and Consulting industries while joining certain global business case competitions during my university degree (HSBC/HKU Business Case Competition & ASEAN Data Science Explorer).   
 <br>
-This repository is created for me to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
+This repository is created for me to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics using Python Programming Language.  
 <br>
 
 ## Projects
