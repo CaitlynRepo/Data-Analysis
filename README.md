@@ -15,3 +15,18 @@ In this section, I would briefly describe what each project aims to achieve and 
 **Description:** The dataset contains nutritional values and information on 80 types of cereal products. The project includes the following steps: data loading, data cleaning and preparations, exploratory data analysis, correlation matrix, linear model regression on predicting ratings for each cereal type
 **Skills:** data cleaning, data analysis, EDA, data visualization.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
+
+### Analysis and Visualization of 12 Months of Sales
+**Code:** ['Analysis and Visualization of 12 Months of Sales'](https://github.com/CaitlynRepo/Python/blob/main/Sales%20Data%20Analysis/Sales%20Analysis.ipynb)    
+**Description:** The dataset includes 12 different files with thousands of electronics purchases that are broken down into month, product types, costs, purchase address, etc. This project targets to use Python for data cleaning and data analysis to answer business questions
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
+
+### Exploratory Data Analysis on Spotify Dataset
+**Code:** ['Exploratory Data Analysis on Spotify Dataset'](https://github.com/CaitlynRepo/Python/blob/main/Exploratory%20Data%20Analysis%20on%20Spotify%20Dataset/Exploratory%20Data%20Analysis%20on%20Spotify%20Dataset.ipynb)    
+**Description:** The dataset includes information on top 200 Charted Songs on Spotify platform (2020 & 2021). 
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib. 
+
+### Exploratory Data Analysis on Netflix Dataset
+**Code:** ['Exploratory Data Analysis on Netflix Dataset'](https://github.com/CaitlynRepo/Python/blob/main/Data%20Analysis%20Project%20with%20Netlfix%20Dataset/Data%20Analysis%20with%20Netflix%20Dataset.ipynb)    
+**Description:** The Netflix Dataset contains all details about TV Shows and Movies on Netflix platform until 2021. The Dataset is collected from Flixable - a third-party Netflix search engine, and is available on Kaggle for free. The Dataset has 7789 rows with 11 columns in total. This project aims to use Python to spot trends and answer questions on Netflix Dataset
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib. 
