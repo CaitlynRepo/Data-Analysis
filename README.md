@@ -11,7 +11,7 @@ This repository is created for me to showcase skills, share projects and track m
 In this section, I would briefly describe what each project aims to achieve and what technologies/methods I utilize to answer questions and solve cases
 
 ### Visualizing Trends and Building a Linear Regression Model on 80 Types of Cereals
-**Code:** ['Visualizing Trends and Building a Linear Regression Model on 80 Types of Cereals](https://github.com/CaitlynRepo/Python/blob/main/Visualizing%20Trends%20and%20Building%20a%20Linear%20Regression%20Model%20on%2080%20Types%20of%20Cereals/Project_Cereals.ipynb)    
+**Code:** ['Visualizing Trends and Building a Linear Regression Model on 80 Types of Cereals'](https://github.com/CaitlynRepo/Python/blob/main/Visualizing%20Trends%20and%20Building%20a%20Linear%20Regression%20Model%20on%2080%20Types%20of%20Cereals/Project_Cereals.ipynb)    
 **Description:** The dataset contains nutritional values and information on 80 types of cereal products. The project includes the following steps: data loading, data cleaning and preparations, exploratory data analysis, correlation matrix, linear model regression on predicting ratings for each cereal type
 **Skills:** data cleaning, data analysis, EDA, data visualization.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
