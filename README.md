@@ -34,7 +34,6 @@ In this section, I would briefly describe what each project aims to achieve and 
 
 ### Exploratory Data Analysis on Zomato Dataset
 **Code:** ['Exploratory Data Analysis on Zomato Dataset'](https://github.com/CaitlynRepo/Python/blob/main/Exploratory%20Data%20Analysis%20Project%20on%20Zomato%20Dataset.ipynb)    
-**Dataset Link:** ['Kaggle Zomato Dataset'](https://www.kaggle.com/shrutimehta/zomato-restaurants-data) 
 **Description:** Zomato is one of the largest Indian restaurant aggregator and food delivery companies. This project aims to perform EDA on the dataset to answer
 business questions using Python libraries such as Numpy, Pandas and Matplotlib
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib. 
