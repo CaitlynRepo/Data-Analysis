@@ -30,3 +30,11 @@ In this section, I would briefly describe what each project aims to achieve and 
 **Code:** ['Exploratory Data Analysis on Netflix Dataset'](https://github.com/CaitlynRepo/Python/blob/main/Data%20Analysis%20Project%20with%20Netlfix%20Dataset/Data%20Analysis%20with%20Netflix%20Dataset.ipynb)    
 **Description:** The Netflix Dataset contains all details about TV Shows and Movies on Netflix platform until 2021. The Dataset is collected from Flixable - a third-party Netflix search engine, and is available on Kaggle for free. The Dataset has 7789 rows with 11 columns in total. This project aims to use Python to spot trends and answer questions on Netflix Dataset
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib. 
+
+
+### Exploratory Data Analysis on Zomato Dataset
+**Code:** ['Exploratory Data Analysis on Zomato Dataset'](https://github.com/CaitlynRepo/Python/blob/main/Exploratory%20Data%20Analysis%20Project%20on%20Zomato%20Dataset.ipynb)    
+**Dataset Link:** ['Kaggle Zomato Restaurant Dataset'] (https://www.kaggle.com/shrutimehta/zomato-restaurants-data)
+**Description:** Zomato is one of the largest Indian restaurant aggregator and food delivery companies. This project aims to perform EDA on the dataset to answer
+business questions using Python libraries such as Numpy, Pandas and Matplotlib
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib. 
