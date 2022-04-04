@@ -34,6 +34,6 @@ business questions using Python libraries such as Numpy, Pandas and Matplotlib
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib. 
 
 ### House Price Predictions Using Simple Machine Learning Models
-**Code:** ['House Price Predictions']
+**Code:** ['House Price Predictions Using Machine Learning Models'](https://github.com/CaitlynRepo/Python/blob/main/House%20Price%20Prediction%20Project/House_Price_Prediction_ML_Project.ipynb)  
 **Description:** The dataset contains 79 independent variables that can affect a house's selling price. This project targets to build simple Regression models using Decision Tree and Random Forest to predict a house with different features for a new input.
 **Technology:** Python, Numpy, Pandas, Decision Tree, Random Forest
