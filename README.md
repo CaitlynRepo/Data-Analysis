@@ -1,4 +1,4 @@
-# Caitlyn Le - Data Analysis Portfolio With Python
+# Caitlyn Le - Data Analysis Portfolio
 
 ## Introduction
 
