@@ -1,4 +1,4 @@
-# Caitlyn Le - Data Analysis Portfolio
+# Caitlyn Le - Data Analytics Portfolio
 
 ## Introduction
 
@@ -39,6 +39,8 @@ business questions using Python libraries such as Numpy, Pandas and Matplotlib
 **Technology:** Python, Numpy, Pandas, Decision Tree, Random Forest
 
 ### 5. Hackerrank Python Practice Problems
+**Description:** I enjoy practicing my Python skills and solving challenges on Hackerrank. This is where I stored my code and notes (if any) for further reviews :)
+
 |Problem Number | Challenge Category | Solution |
 |---|---|---|
 | 1  | [If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [My Solution](https://github.com/CaitlynRepo/Data-Analysis/blob/main/Hackerrank%20Python%20If-Else)
