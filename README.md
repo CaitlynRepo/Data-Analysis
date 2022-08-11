@@ -39,6 +39,6 @@ business questions using Python libraries such as Numpy, Pandas and Matplotlib
 **Technology:** Python, Numpy, Pandas, Decision Tree, Random Forest
 
 ### 5. Hackerrank Python Practice Problems
-|CHALLENGE | SOLUTION |
-|---|---|
-| [If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) |
+|Problem Number | Challenge Category | Solution |
+|---|---|---|
+| 1  | [If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [My Solution](https://github.com/CaitlynRepo/Data-Analysis/blob/main/Hackerrank%20Python%20If-Else)
