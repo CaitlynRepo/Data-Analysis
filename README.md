@@ -38,9 +38,3 @@ business questions using Python libraries such as Numpy, Pandas and Matplotlib
 **Description:** The dataset contains 79 independent variables that can affect a house's selling price. This project targets to build simple Regression models using Decision Tree and Random Forest to predict a house with different features for a new input.
 **Technology:** Python, Numpy, Pandas, Decision Tree, Random Forest
 
-### 5. Hackerrank Python Practice Problems
-**Description:** I enjoy practicing my Python skills and solving challenges on Hackerrank. This is where I stored my code and notes (if any) for further reviews :)
-
-|Problem Number | Challenge Category | Solution |
-|---|---|---|
-| 1  | [If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [My Solution](https://github.com/CaitlynRepo/Data-Analysis/blob/main/Hackerrank%20Python%20If-Else)
