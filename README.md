@@ -21,19 +21,19 @@ In this section, I would briefly describe what each project aims to achieve and 
 **Description:** The dataset includes 12 different files with thousands of electronics purchases that are broken down into month, product types, costs, purchase address, etc. This project targets to use Python for data cleaning and data analysis to answer business questions
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
 
-### Exploratory Data Analysis on Netflix Dataset
+### 3. Exploratory Data Analysis on Netflix Dataset
 **Code:** ['Exploratory Data Analysis on Netflix Dataset'](https://github.com/CaitlynRepo/Python/blob/main/Data%20Analysis%20Project%20with%20Netlfix%20Dataset/Data%20Analysis%20with%20Netflix%20Dataset.ipynb)    
 **Description:** The Netflix Dataset contains all details about TV Shows and Movies on Netflix platform until 2021. The Dataset is collected from Flixable - a third-party Netflix search engine, and is available on Kaggle for free. The Dataset has 7789 rows with 11 columns in total. This project aims to use Python to spot trends and answer questions on Netflix Dataset
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib. 
 
 
-### 3. Exploratory Data Analysis on Zomato Dataset
+### 4. Exploratory Data Analysis on Zomato Dataset
 **Code:** ['Exploratory Data Analysis on Zomato Dataset'](https://github.com/CaitlynRepo/Python/blob/main/Exploratory%20Data%20Analysis%20Project%20on%20Zomato%20Dataset.ipynb)    
 **Description:** Zomato is one of the largest Indian restaurant aggregator and food delivery companies. This project aims to perform EDA on the dataset to answer
 business questions using Python libraries such as Numpy, Pandas and Matplotlib
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib. 
 
-### 4. House Price Predictions Using Simple Machine Learning Models
+### 5. House Price Predictions Using Simple Machine Learning Models
 **Code:** ['House Price Predictions Using Machine Learning Models'](https://github.com/CaitlynRepo/Python/blob/main/House%20Price%20Prediction%20Project/House_Price_Prediction_ML_Project.ipynb)  
 **Description:** The dataset contains 79 independent variables that can affect a house's selling price. This project targets to build simple Regression models using Decision Tree and Random Forest to predict a house with different features for a new input.
 **Technology:** Python, Numpy, Pandas, Decision Tree, Random Forest
