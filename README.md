@@ -39,7 +39,7 @@ business questions using Python libraries such as Numpy, Pandas and Matplotlib
 **Technology:** Python, Numpy, Pandas, Decision Tree, Random Forest
 
 ### 6. Hedge Fund Management and Stock Analysis
-**Code:** ['Hedge Fund Management and Stock Analysis'](https://github.com/CaitlynRepo/Data-Analysis/blob/main/Hedge%20Fund%20Management%20%26%20Stock%20Analysis/Data%20Analysis%20Project%20-%20Hedge%20Fund%20Management%20%26%20Stock%20Analysis.ipynb)
+**Code:** ['Hedge Fund Management and Stock Analysis'](https://github.com/CaitlynRepo/Data-Analysis/blob/main/Hedge%20Fund%20Management%20%26%20Stock%20Analysis/Data%20Analysis%20Project%20%20Hedge%20Fund%20Management%20%26%20Stock%20Analysis.ipynb)\
 **Description:** Two datasets were used in this project, one was the hedge fund return from EDHEC risk dataset from Jan 1997 to Aug 2020 while the other one includes prices for various stocks from Yahoo Finance between Jan 2000 and Mar 2022. I practiced a variety of finance concepts on the datasets such as calculation of Skewness, Kurtosis, Semideviation and VaR. I also attempted to predict the stock price of Microsoft using ARIMA model.
 **Technology:** Python, Numpy, Pandas, Matplotlib, Statsmodels, Sklearn, ARIMA
 
