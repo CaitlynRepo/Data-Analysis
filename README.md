@@ -38,3 +38,6 @@ business questions using Python libraries such as Numpy, Pandas and Matplotlib
 **Description:** The dataset contains 79 independent variables that can affect a house's selling price. This project targets to build simple Regression models using Decision Tree and Random Forest to predict a house with different features for a new input.
 **Technology:** Python, Numpy, Pandas, Decision Tree, Random Forest
 
+### 6. Hedge Fund Management and Stock Analysis
+**Code:** ['Hedge Fund Management and Stock Analysis Project']
+
