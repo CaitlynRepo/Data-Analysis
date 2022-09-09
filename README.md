@@ -4,7 +4,7 @@
 
 Hello there, I'm Caitlyn! I have a background of Economics and Finance, and I'm currently studying for a PostGrad degree of Master of IT in Business (Singapore Management University), majoring in Fintech and Analytics. I have worked and obtained experiences in FMCG, Finance and Consulting industries while joining several global business case competitions during my university degree (HSBC/HKU Business Case Competition & ASEAN Data Science Explorer).   
 <br>
-This repository is created for me to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics using Python Programming Language.  
+This repository is created for me to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics using Python Programming Language, SQL and other BI tools such as Tableau and PowerBI  
 <br>
 
 ## Projects
