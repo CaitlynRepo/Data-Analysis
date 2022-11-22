@@ -42,3 +42,6 @@ In this section, I would briefly describe what each project aims to achieve and 
 **Description:** Two datasets were used in this project, one was the hedge fund return from EDHEC risk dataset from Jan 1997 to Aug 2020 while the other one includes prices for various stocks from Yahoo Finance between Jan 2000 and Mar 2022. I practiced a variety of finance concepts on the datasets such as calculation of Skewness, Kurtosis, Semideviation and VaR. I also attempted to predict the stock price of Microsoft using ARIMA model.\
 **Technology:** Python, Numpy, Pandas, Matplotlib, Statsmodels, Sklearn, ARIMA
 
+### 7. Superstore Tableau Data Visualization
+**Viz Snippet:** ![Superstore Overview Dashboard](/)
+
