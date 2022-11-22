@@ -45,4 +45,5 @@ In this section, I would briefly describe what each project aims to achieve and 
 ### 7. Superstore Tableau Data Visualization
 **Viz Snippet:** ![Superstore Overview Dashboard](Viz/Superstore-Overview.png)
 ** Description:** The superstore dataset is retail transaction data (or point-of-sales). The dataset is used to conduct data visualizations for insights such as total number order, most bought product category and customer loyalty values. All of the analyses and visualization are done in Tableau.
+
 **Tableau Public:** [LINK] (https://public.tableau.com/views/Book1_16629807278160/1_Overview?:language=en-US&:display_count=n&:origin=viz_share_link)
