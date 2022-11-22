@@ -43,5 +43,5 @@ In this section, I would briefly describe what each project aims to achieve and 
 **Technology:** Python, Numpy, Pandas, Matplotlib, Statsmodels, Sklearn, ARIMA
 
 ### 7. Superstore Tableau Data Visualization
-**Viz Snippet:** ![Superstore Overview Dashboard](/)
+**Viz Snippet:** ![Superstore Overview Dashboard](Viz/Superstore-Overview.png)
 
