@@ -49,3 +49,7 @@ In this section, I would briefly describe what each project aims to achieve and 
 
 **Tableau Public:** [LINK](https://public.tableau.com/views/Book1_16629807278160/1_Overview?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+### 8. Online Retail EDA and Cohort Analysis
+**Code:** ['Online Retail EDA & Cohort Analysis'](https://github.com/CaitlynRepo/Data-Analysis/blob/main/Online_Retail_EDA_%26_Cohort_Analysis.ipynb)  
+**Description:** The dataset is obtained from 'Online Retail UCI' with more than 1 million rows and 7 different columns. I have used Python to answer several key questions for the online business to improve their sales and developed insights based on my cohort analysis from RFM (by quarter from the sales data) \
+**Technology:** Python, Numpy, Pandas, Seaborn
