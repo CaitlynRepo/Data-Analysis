@@ -53,3 +53,12 @@ In this section, I would briefly describe what each project aims to achieve and 
 **Code:** ['Online Retail EDA & Cohort Analysis'](https://github.com/CaitlynRepo/Data-Analysis/blob/main/Online_Retail_EDA_%26_Cohort_Analysis.ipynb)  
 **Description:** The dataset is obtained from 'Online Retail UCI' with more than 1 million rows and 7 different columns. I have used Python to answer several key questions for the online business to improve their sales and developed insights based on my cohort analysis from RFM (by quarter from the sales data) \
 **Technology:** Python, Numpy, Pandas, Seaborn
+
+### 7. Customer Churn Analysis - Tableau Data Visualization
+**Viz Snippet:** ![Executive Dashboard Overview](Viz/Executive Dashboard Overview.png)
+
+**Description:** The dataset contains customer data from a Telecom company such as Age, Phone Bill, Unlimited Phone Plans. All of the visualizations are done in Tableau to find out about customer churn rate and how the company can improve on it
+
+**Tableau Public:** [LINK](https://public.tableau.com/app/profile/caitlyn.le/viz/3_1_dashboard_overview_16724248687990/ExecutiveDashboards)
+
+
