@@ -55,7 +55,7 @@ In this section, I would briefly describe what each project aims to achieve and 
 **Technology:** Python, Numpy, Pandas, Seaborn
 
 ### 7. Customer Churn Analysis - Tableau Data Visualization
-**Viz Snippet:** ![Executive Dashboard Overview](Viz/Executive Dashboard Overview.png)
+**Viz Snippet:** ![Executive Dashboard](Viz/Executive Dashboard Overview.png)
 
 **Description:** The dataset contains customer data from a Telecom company such as Age, Phone Bill, Unlimited Phone Plans. All of the visualizations are done in Tableau to find out about customer churn rate and how the company can improve on it
 
