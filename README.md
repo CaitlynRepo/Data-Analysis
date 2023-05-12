@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello there, I'm Caitlyn! I have a background of Economics and Finance, and I'm currently working as a data analyst
+Hello there, I'm Caitlyn!
 <br>
 This repository is created for me to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics using Python Programming Language, SQL and other BI tools such as Tableau and PowerBI  
 <br>
