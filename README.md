@@ -66,6 +66,6 @@ In this section, I would briefly describe what each project aims to achieve and 
 **Description:** This is my solution solving an interesting challenge from Danny Ma as part of his popular 8-weeks-SQL-challenge. The case study requires using CTE windows functions as well as manipulating and joining data in MySQL. Further details about the challenge can be found [HERE](https://8weeksqlchallenge.com/case-study-1/)
 
 ### 11. Scaping Singapore's best-sellers books from Amazon using Python BeautifulSoup
-**Code:** ['Amazon Best-seller Books'](https://github.com/CaitlynRepo/Data-Analysis/blob/main/SQL/Case%20Study%201%20Danny's%20Dinner/Danny's%20Diner%20Week%201.sql) \
-**Description:** This is my solution solving an interesting challenge from Danny Ma as part of his popular 8-weeks-SQL-challenge. The case study requires using CTE windows functions as well as manipulating and joining data in MySQL. Further details about the challenge can be found [HERE](https://8weeksqlchallenge.com/case-study-1/)
+**Code:** ['Amazon Best-seller Books'](https://github.com/CaitlynRepo/Data-Analysis/blob/main/Amazon_Best_seller_Book_Python_Web_Scraping.ipynb) \
+**Description:** I picked up learning Beautifulsoup from online courses and figure I should create a project to apply whatever that I learnt. One of my goals is to read more books in 2025 so I decided to create a Python script that scrape Amazon stores for books with highest ratings and reviews.
 
