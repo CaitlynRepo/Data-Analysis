@@ -69,3 +69,6 @@ In this section, I would briefly describe what each project aims to achieve and 
 **Code:** ['Amazon Best-seller Books'](https://github.com/CaitlynRepo/Data-Analysis/blob/main/Amazon_Best_seller_Book_Python_Web_Scraping.ipynb) \
 **Description:** I picked up learning Beautifulsoup from online courses and figure I should create a project to apply whatever that I learnt. One of my goals is to read more books in 2025 so I decided to create a Python script that scrape Amazon stores for books with highest ratings and reviews.
 
+### 12. What Can Contribute to Students' Depression - SQL Project
+**Code:** ['Analyzing Students' Mental Health'](https://github.com/CaitlynRepo/Data-Analysis/blob/main/Amazon_Best_seller_Book_Python_Web_Scraping.ipynb) \
+**Description:** I picked up learning Beautifulsoup from online courses and figure I should create a project to apply whatever that I learnt. One of my goals is to read more books in 2025 so I decided to create a Python script that scrape Amazon stores for books with highest ratings and reviews.
